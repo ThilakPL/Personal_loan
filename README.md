@@ -1,8 +1,6 @@
 Predicting Personal Loan Acceptance
 Overview
 
-Welcome to the Predicting Personal Loan Acceptance project repository. This project aims to build a predictive model to identify potential customers who are likely to accept a personal loan offer. This model will help in targeted marketing strategies to enhance loan acceptance rates.
-
 Context
 
 Thera Bank, a US bank with a growing customer base, primarily serves liability customers (depositors) and has a smaller base of asset customers (borrowers). To expand its loan business and earn more through loan interest, the bank aims to convert more liability customers into personal loan customers while retaining them as depositors.
